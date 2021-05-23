@@ -1,5 +1,5 @@
-# VmWare
-###Idea submission
+# VMWare
+**Idea submission**
 **MADE BY:** <br>
 - [Aishani Mitra](https://github.com/Aishani2001) <br>
 - [Shreya Singh](https://github.com/ss0313) <br>
