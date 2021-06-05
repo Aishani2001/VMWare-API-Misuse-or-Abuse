@@ -5,3 +5,6 @@
 - [Shreya Singh](https://github.com/ss0313) <br>
 - [Vignesh Ravichandra Rao](https://github.com/vrrao01) <br>
 - [Dibya Darshney](https://github.com/ddarshney)
+
+**PROTOTYPE EXPLANATION VIDEO** <br>
+https://drive.google.com/file/d/16Lp6IfvONdPzKp3VMGpGr268eF8tot2_/view
