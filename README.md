@@ -3,7 +3,7 @@
 This repository contains the final submission for **VMWare Campus Ambassador Hackathon**. We have used unsupervised Machine Learning algorithms to detect anomalies in web server access logs. 
 
 ## Dataset
-A [publicly available](https://github.com/linuxacademy/content-elastic-log-samples/blob/master/access.log) access log from a web server was used. After parsing the log file, features such as mean number of requests per day, mean time between successive requests, etc were extract for each IP address. The final dataset is present in `finaldata.csv`. The code used for data processing can be found in `data_processing.ipynb`
+A [publicly available](https://github.com/linuxacademy/content-elastic-log-samples/blob/master/access.log) access log from a web server was used. After parsing the log file, features such as mean number of requests per day, mean time between successive requests, etc were extract for each IP address. The final dataset is present in `finaldata.csv`. The code used for data processing can be found in `data_preparation.ipynb`
 
 ## Approach 
 More information and proper discussion on our approach as well as the proposed improvements can be found in `Prototype_Submission.pdf`
