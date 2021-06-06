@@ -6,6 +6,7 @@ This repository contains the final submission for **VMWare Campus Ambassador Hac
 A [publicly available](https://github.com/linuxacademy/content-elastic-log-samples/blob/master/access.log) access log from a web server was used. After parsing the log file, features such as mean number of requests per day, mean time between successive requests, etc were extract for each IP address. The final dataset is present in `finaldata.csv`. The code used for data processing can be found in `data_processing.ipynb`
 
 ## Approach 
+More information and proper discussion on our approach as well as the proposed improvements can be found in `Prototype_Submission.pdf`
 The following unsupervised learning algorithms were used to detect anomalous requests present in the dataset:
 1. K Means Clustering
 2. Isolation Forest
@@ -14,7 +15,7 @@ The following unsupervised learning algorithms were used to detect anomalous req
 Code, data visualisation and anomaly detection results can be found in `Unsupervised Learning.ipynb`
 
 ## Video Demonstration of Code
-[Click Here](https://drive.google.com/file/d/16Lp6IfvONdPzKp3VMGpGr268eF8tot2_/view)
+[Click Here](https://drive.google.com/file/d/16Lp6IfvONdPzKp3VMGpGr268eF8tot2_/view) or the link can be found in `video.md`
 
 
 ## Contributors 
